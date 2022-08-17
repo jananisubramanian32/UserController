@@ -1,0 +1,19 @@
+{
+  "createRequest":
+  {
+    "name": "Janani S",
+    "address": "abc colony",
+    "marks": 98
+  },
+
+  "updateRequest":
+  {
+    "id":4,
+    "name":"Janani Subramanian",
+    "address":"abc colony",
+    "marks":98
+  }
+
+
+
+}
